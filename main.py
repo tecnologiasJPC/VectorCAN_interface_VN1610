@@ -13,7 +13,7 @@ bus = can.Bus(
 msg = can.Message(arbitration_id=0x123, data=[0x11, 0x22, 0x33], is_extended_id=False)
 try:
     bus.send(msg)
-    print(f"Message sent successfully: {msg}")C
+    print(f"Message sent successfully: {msg}")
 except can.CanError:
     print("Error sending message")
 
