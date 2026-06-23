@@ -8,7 +8,7 @@ https://www.vector.com/int/en/download/xl-driver-library/
 
 # Verify that these data is correctly set
 
-
+![HardwareManager](configurationValues.JPG)
 
 # Verify pinout connections
 
