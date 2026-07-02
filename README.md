@@ -11,5 +11,6 @@ https://www.vector.com/int/en/download/xl-driver-library/
 ![HardwareManager](configurationValues.JPG)
 
 # Verify pinout connections
+For this script only one CAN channel is required.
 
 ![pinout](pinoutD-SUB9.JPG)
